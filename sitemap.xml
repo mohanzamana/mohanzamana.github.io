@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/theme-documentation-basics/</loc>
+    <loc>https://mohanzamana.github.io/posts/theme-documentation-basics/</loc>
     <lastmod>2020-03-06T21:29:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/theme-documentation-advanced/</loc>
+    <loc>https://mohanzamana.github.io/posts/theme-documentation-advanced/</loc>
     <lastmod>2020-05-06T21:29:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/markdown-syntax/</loc>
+    <loc>https://mohanzamana.github.io/posts/markdown-syntax/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/emoji-support/</loc>
+    <loc>https://mohanzamana.github.io/posts/emoji-support/</loc>
     <lastmod>2020-10-01T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://mohanzamana.github.io/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://example.com/tags/def/</loc>
+    <loc>https://mohanzamana.github.io/tags/def/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://example.com/posts/lorem-ipsum/</loc>
+    <loc>https://mohanzamana.github.io/posts/lorem-ipsum/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://mohanzamana.github.io/posts/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://mohanzamana.github.io/tags/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://example.com/tags/xyz/</loc>
+    <loc>https://mohanzamana.github.io/tags/xyz/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://mohanzamana.github.io/tags/emoji/</loc>
     <lastmod>2020-10-01T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/configuration/</loc>
+    <loc>https://mohanzamana.github.io/tags/configuration/</loc>
     <lastmod>2020-05-06T21:29:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/installation/</loc>
+    <loc>https://mohanzamana.github.io/tags/installation/</loc>
     <lastmod>2020-05-06T21:29:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://mohanzamana.github.io/tags/markdown/</loc>
     <lastmod>2020-05-06T21:29:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://mohanzamana.github.io/tags/css/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://mohanzamana.github.io/tags/html/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://mohanzamana.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://mohanzamana.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/subpage/</loc>
+    <loc>https://mohanzamana.github.io/about/subpage/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/subpage2/</loc>
+    <loc>https://mohanzamana.github.io/about/subpage2/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/about/</loc>
+    <loc>https://mohanzamana.github.io/page/about/</loc>
   </url><url>
-    <loc>https://example.com/projects/bludhaven/</loc>
+    <loc>https://mohanzamana.github.io/projects/bludhaven/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://mohanzamana.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/projects/hydra/</loc>
+    <loc>https://mohanzamana.github.io/projects/hydra/</loc>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://mohanzamana.github.io/page/</loc>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://mohanzamana.github.io/projects/</loc>
   </url><url>
-    <loc>https://example.com/projects/tatooine/</loc>
+    <loc>https://mohanzamana.github.io/projects/tatooine/</loc>
   </url>
 </urlset>

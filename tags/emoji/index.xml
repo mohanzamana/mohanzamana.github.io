@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>emoji on Mohit Patel</title>
-    <link>https://example.com/tags/emoji/</link>
+    <link>https://mohanzamana.github.io/tags/emoji/</link>
     <description>Recent content in emoji on Mohit Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 17:55:28 +0800</lastBuildDate><atom:link href="https://example.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 17:55:28 +0800</lastBuildDate><atom:link href="https://mohanzamana.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/posts/emoji-support/</link>
+      <link>https://mohanzamana.github.io/posts/emoji-support/</link>
       <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/posts/emoji-support/</guid>
+      <guid>https://mohanzamana.github.io/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo and DoIt.</description>
     </item>
     
