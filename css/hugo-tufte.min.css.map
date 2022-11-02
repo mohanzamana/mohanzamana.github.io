@@ -1,19 +1,19 @@
 {
 	"version": 3,
 	"file": "hugo-tufte.min.css",
-	"sourceRoot": "C:/Users/patel/Nextcloud/hugo/mohanzamana",
+	"sourceRoot": "C:/Users/patel/Nextcloud/hugo/mz",
 	"sources": [
-		"themes/hugo-tufte/assets/scss/hugo-tufte.scss",
-		"themes/hugo-tufte/assets/scss/vendor/tufte.scss",
-		"themes/hugo-tufte/assets/scss/general.scss",
-		"themes/hugo-tufte/assets/scss/pages/footer.scss",
-		"themes/hugo-tufte/assets/scss/components/code-highlight.scss",
-		"themes/hugo-tufte/assets/scss/components/toc.scss",
-		"themes/hugo-tufte/assets/scss/components/nav.scss",
-		"themes/hugo-tufte/assets/scss/components/header.scss",
-		"themes/hugo-tufte/assets/scss/components/meta.scss",
-		"themes/hugo-tufte/assets/scss/syntax/highlight-light.scss",
-		"themes/hugo-tufte/assets/scss/syntax/syntax-light.scss"
+		"C:/Users/patel/Nextcloud/hugo/mohanzamana/themes/hugo-tufte/assets/scss/hugo-tufte.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/vendor/tufte.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/general.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/pages/footer.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/components/code-highlight.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/components/toc.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/components/nav.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/components/header.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/components/meta.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/syntax/highlight-light.scss",
+		"../mohanzamana/themes/hugo-tufte/assets/scss/syntax/syntax-light.scss"
 	],
 	"sourcesContent": [
 		"// VENDOR\r\n@import \"vendor/tufte.scss\";\r\n\r\n// OUR CODE\r\n@import \"general\";\r\n\r\n/// PAGES\r\n@import \"pages/footer\";\r\n\r\n/// COMPONENTS\r\n@import \"components/code-highlight\";\r\n@import \"components/toc\";\r\n@import \"components/nav\";\r\n@import \"components/header\";\r\n@import \"components/meta\";\r\n\r\n// Look at this https://gohugo.io/hugo-pipes/resource-from-template/#readout\r\n\r\n@import \"syntax/highlight-light.scss\"\r\n",
