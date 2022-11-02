@@ -2,62 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mohan Zamana</title>
-    <link>https://mohanzamana.github.io/categories/</link>
+    <link>https://hugo-holy.pages.dev/categories/</link>
     <description>Recent content in Categories on Mohan Zamana</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 13:56:01 -0800</lastBuildDate><atom:link href="https://mohanzamana.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-holy.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>katex</title>
-      <link>https://mohanzamana.github.io/categories/katex/</link>
-      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      <title>syntax</title>
+      <link>https://hugo-holy.pages.dev/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mohanzamana.github.io/categories/katex/</guid>
+      <guid>https://hugo-holy.pages.dev/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>latex</title>
-      <link>https://mohanzamana.github.io/categories/latex/</link>
-      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      <title>themes</title>
+      <link>https://hugo-holy.pages.dev/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mohanzamana.github.io/categories/latex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tufte-css</title>
-      <link>https://mohanzamana.github.io/categories/tufte-css/</link>
-      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
-      
-      <guid>https://mohanzamana.github.io/categories/tufte-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fun</title>
-      <link>https://mohanzamana.github.io/categories/fun/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohanzamana.github.io/categories/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://mohanzamana.github.io/categories/hugo/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohanzamana.github.io/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://mohanzamana.github.io/categories/test/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohanzamana.github.io/categories/test/</guid>
+      <guid>https://hugo-holy.pages.dev/categories/themes/</guid>
       <description></description>
     </item>
     
