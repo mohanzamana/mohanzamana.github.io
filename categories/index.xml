@@ -6,25 +6,6 @@
     <description>Recent content in Categories on Mohan Zamana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-holy.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>syntax</title>
-      <link>https://hugo-holy.pages.dev/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-holy.pages.dev/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://hugo-holy.pages.dev/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-holy.pages.dev/categories/themes/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://hugo-holy.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
