@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garmonbozia</title>
+    <link>https://mohanzamana.github.io/</link>
+    <description>Recent content on Garmonbozia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mohanzamana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>501st Night</title>
+      <link>https://mohanzamana.github.io/post/501/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohanzamana.github.io/post/501/</guid>
+      <description>Many years ago (some say before the first copy was published) an unauthorised copy of 1001 Nights was found in Herat. It traveled west through the desert. A holy man washed it with zam zam water. It was then lost, buried under the great dunes. When the winds came howling in the great storm (during the life of Ibn Sina), it resurfaced. A great philosopher of the future read it. We do not know if this copy matched the authorised copy of 1001 Nights.</description>
+    </item>
+    
+    <item>
+      <title>Primacy of Words</title>
+      <link>https://mohanzamana.github.io/post/primacy_of_words/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohanzamana.github.io/post/primacy_of_words/</guid>
+      <description>This site has minimal visual and design elements. All our attention must be on the text. The primacy of words.
+Long live the reader.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mohanzamana.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohanzamana.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mohanzamana.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohanzamana.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mohanzamana.github.io/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohanzamana.github.io/contact/</guid>
+      <description> mohitpatel@proton.me Twitter </description>
+    </item>
+    
+  </channel>
+</rss>
